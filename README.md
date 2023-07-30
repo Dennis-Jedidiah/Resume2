@@ -1,2 +1,2 @@
 # Resume
-Building a resume w html and css.
+Building a resume with html and css.
